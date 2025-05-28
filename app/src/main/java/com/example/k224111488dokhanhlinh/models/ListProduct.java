@@ -16,7 +16,7 @@ public class ListProduct {
 
     public void generateSampleData() {
         products.add(new Product(1, "P001", "Coca Cola", 10.0,
-                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ltbc2mbfhrixeb.webp"));
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Latte_at_Doppio_Ristretto_Chiang_Mai_01.jpg/1200px-Latte_at_Doppio_Ristretto_Chiang_Mai_01.jpg"));
         products.add(new Product(2, "P002", "Pepsi", 9.5,
                 "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lte7vjofzh6sde.webp"));
         products.add(new Product(3, "P003", "7Up", 8.0,
@@ -30,11 +30,11 @@ public class ListProduct {
         products.add(new Product(7, "P007", "Cheesecake", 28.0,
                 "https://down-vn.img.susercontent.com/file/sg-11134201-7rbnb-lqnbl826v6t698.webp"));
         products.add(new Product(8, "P008", "Apple Juice", 12.0,
-                "https://example.com/images/apple_juice.jpg"));
+                "https://cdn1.concung.com/2022/04/56946-86824/nuoc-tao-tu-nhien-th-true-juice-350ml.jpg"));
         products.add(new Product(9, "P009", "Orange Juice", 12.0,
-                "https://example.com/images/orange_juice.jpg"));
+                "https://d8um25gjecm9v.cloudfront.net/store-front-cms/NGK_Nuocep_Collagen_Camdao_01_3a82a2527b.png"));
         products.add(new Product(10, "P010", "Banana Smoothie", 15.0,
-                "https://example.com/images/banana_smoothie.jpg"));
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd2Y2aP3l0vdTkSVAnJqNkXPeqmwcNrGT1Pw&s"));
         products.add(new Product(11, "P011", "Strawberry Yogurt", 18.0,
                 "https://example.com/images/strawberry_yogurt.jpg"));
         products.add(new Product(12, "P012", "Green Tea", 7.0,
